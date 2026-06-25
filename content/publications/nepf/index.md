@@ -25,4 +25,4 @@ links:
     name: Project Page
     url: "https://meloniedealmeida.github.io/NePF_page/"
 ---
-AI4Space Workshop at CVPR 2026 (accepted)
+AI4Space Workshop at CVPR 2026 
