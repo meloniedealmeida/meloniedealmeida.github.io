@@ -29,7 +29,7 @@ links:
   - icon_pack: fas
     icon: file-image
     name: Poster
-    url: "/melonienimashadealmeida/meloniedealmeida.github.io/static"
+    url: "img/descent_images_AI4Space_poster.pdf"
 
 ---
 AI4Space Workshop at CVPR 2026 
