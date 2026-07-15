@@ -24,4 +24,4 @@ links:
     name: Project Page
     url: "https://anciukevicius.com/seconds/"
 ---
-IJCNN 2026
+IJCNN 2026 (Virtual oral)

@@ -25,4 +25,4 @@ links:
     name: Project Page
     url: "https://meloniedealmeida.github.io/Pixel-to-4D-Website/"
 ---
-ICPR 2026 (accepted)
+ICPR 2026 (Oral)
