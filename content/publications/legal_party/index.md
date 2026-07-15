@@ -21,4 +21,4 @@ links:
     url: "https://dl.acm.org/doi/pdf/10.1145/3487664.3487700"
 
 ---
-The 23rd International Conference on Information Integration and Web Intelligence (Oral)
+The 23rd International Conference on Information Integration and Web Intelligence (virtual oral)

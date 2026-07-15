@@ -24,5 +24,12 @@ links:
     icon: external-link-alt
     name: Project Page
     url: "https://meloniedealmeida.github.io/NePF_page/"
+
+  
+  - icon_pack: fas
+    icon: file-image
+    name: Poster
+    url: "/static/img/descent_images_AI4Space_poster.pdf"
+
 ---
 AI4Space Workshop at CVPR 2026 
