@@ -6,7 +6,7 @@ slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Delivered an oral presentation at IJCNN 2026, held within WCCI 2026.
+title: Delivered an oral presentation at IJCNN.
 # links:
   # - icon_pack: fas
   #   icon: scroll
