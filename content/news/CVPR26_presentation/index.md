@@ -1,12 +1,12 @@
 ---
-date: 2026-06-23
-publishDate: 2026-06-23
+date: 2026-06-04
+publishDate: 2026-06-04
 external_link: ""
 slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Delivered an oral presentation at IJCNN 2026, held within WCCI 2026.
+title: Presented at CVPR Workshop AI4Space.
 # links:
   # - icon_pack: fas
   #   icon: scroll
