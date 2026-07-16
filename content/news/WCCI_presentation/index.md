@@ -6,7 +6,7 @@ slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Delivered an oral presentation at IJCNN.
+title: Presented our paper (oral) at IJCNN.
 # links:
   # - icon_pack: fas
   #   icon: scroll
