@@ -6,7 +6,7 @@ slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Presented a paper at CVPR Workshop AI4Space.
+title: Presented our paper at CVPR Workshop AI4Space.
 # links:
   # - icon_pack: fas
   #   icon: scroll
