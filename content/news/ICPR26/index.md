@@ -6,7 +6,7 @@ slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Presented our paper (oral) at ICPR 2026 main conference and PAVER workshop.
+title: Presented a Paper Orally at ICPR Main Conference & PAVER Workshop
 # links:
   # - icon_pack: fas
   #   icon: scroll

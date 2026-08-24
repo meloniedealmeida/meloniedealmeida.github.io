@@ -6,7 +6,7 @@ slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Presented our paper (oral) at IJCNN.
+title: Presented Our Paper Orally at IJCNN 2026, Part of WCCI 2026
 # links:
   # - icon_pack: fas
   #   icon: scroll

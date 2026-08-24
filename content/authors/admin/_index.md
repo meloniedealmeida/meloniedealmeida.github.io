@@ -57,9 +57,9 @@ social:
     link: https://www.gla.ac.uk/pgrs/meloniedealmeida/
     # display:
     #   header: true
-  - icon: cv
-    icon_pack: ai
-    link: files/resume/resume-melonie.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/resume/resume-melonie.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
