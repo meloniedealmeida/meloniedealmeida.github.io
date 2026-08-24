@@ -1,12 +1,12 @@
 ---
-date: 2026-03-31
-publishDate: 2026-03-31
+date: 2026-08-17
+publishDate: 2026-08-17
 external_link: ""
 slides: example
 # summary: 
 # tags:
 # - Outreach
-title: Presented a Paper (oral) at ICPR Main Conference & PAVER Workshop
+title: Presented a Paper (Oral) at ICPR 2026 Main Conference & PAVER Workshop
 # links:
   # - icon_pack: fas
   #   icon: scroll
