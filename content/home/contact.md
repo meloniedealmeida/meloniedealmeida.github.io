@@ -17,7 +17,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   # Contact details (edit or remove options as required)
-  email: p.de-almeida.1@research.gla.ac.uk
+  email: m.de-almeida.1@research.gla.ac.uk
 
 design:
   columns: '2'
