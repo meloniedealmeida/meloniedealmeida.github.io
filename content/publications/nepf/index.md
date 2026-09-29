@@ -32,4 +32,4 @@ links:
     url: "img/descent_images_AI4Space_poster.pdf"
 
 ---
-AI4Space Workshop at CVPR 2026 
+CVPR 2026 Workshops (AI4Space)
